@@ -10,4 +10,4 @@
 <h1>个人简介</h1>
 现就读于长安大学信息工程学院计算机系，易班技术开发组成员，<b>单身！！！</b>
 <h2>github地址</h2>
-<a href=http//:github.com/chdDongyang/>
+<a href=http//:github.com/chdDongyang>http//:github.com/chdDongyang</a>
