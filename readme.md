@@ -1,4 +1,4 @@
-# 每日学习记录
+﻿# 每日学习记录
 
 长安大学易班工作站技术组成员每日学习记录
 
@@ -15,7 +15,7 @@
 | 姓名 | 拟定方向 | 当前项目 | 评级 |
 | --- | --- | --- | --- |
 | [张元](https://github.com/zhangyuan1997)（组长） | 自定 | 长大新闻数据分析 <br>创青春/互联网+ | 待定 |
-| [刘涛](https://github.com/chdliutao) | PHP <br> Python <br> Scrapy| 晚点名项目(2018-03 ~ ) | 待定 |
+| [刘涛](https://github.com/chdliutao) | PHP <br> Python <br> Scrapy|晚点名项目(2018-03 ~ ) | 待定 |
 | [吕兆鹤](https://github.com/lvzhaohe) | 前端 <br>微信小程序 | 工作站主页 | 待定 |
 | [翁年伟](https://github.com/111ANY) | PHP | 微信公共平台<br>阿里云小蜜 | 待定 |
 | 何卫东 | 后端 | ThinkPHP | 待定 |
