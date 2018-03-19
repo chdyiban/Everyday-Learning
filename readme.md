@@ -1,4 +1,4 @@
-# 每日学习记录
+﻿# 每日学习记录
 
 长安大学易班工作站技术组成员每日学习记录
 
@@ -18,7 +18,7 @@
 | [刘涛](https://github.com/chdliutao) | PHP <br> Python <br> Scrapy| 晚点名项目(2018-03 ~ ) | 待定 |
 | [吕兆鹤](https://github.com/lvzhaohe) | 前端 <br>微信小程序 | 工作站主页 | 待定 |
 | [翁年伟](https://github.com/111ANY) | PHP | 微信公共平台<br>阿里云小蜜 | 待定 |
-| 何卫东 | 后端 | ThinkPHP | 待定 |
+| [何卫东](https://github.com/WakxHWD) | 后端 | ThinkPHP | 待定 |
 | 李承东 | 前端 | 待定 | 待定 |
 | 罗瑾昀 | 后端 | 创新创业专家库 | 待定 |
 | 朱东阳 | 后端 | 微信问答（翁年伟） | 待定 |
