@@ -14,8 +14,8 @@
 
 | 姓名 | 拟定方向 | 当前项目 | 评级 |
 | --- | --- | --- | --- |
-| [张元](https://github.com/zhangyuan1997)（组长） | 深度学习 | 长大新闻数据分析，人脸识别 <br>创青春/互联网+ | 待定 |
-| [刘涛](https://github.com/chdliutao) | PHP <br> Python <br> Scrapy|晚点名项目，运动会轻应用（已完成），新闻爬虫 | 待定 |
+| [张元](https://github.com/zhangyuan1997)（组长） | Deep Learning | 长大新闻数据分析，人脸识别 <br>创青春/互联网+ | 待定 |
+| [刘涛](https://github.com/chdliutao) | PHP <br> Python <br>Scrapy|晚点名项目，运动会轻应用（已完成），新闻爬虫 | 待定 |
 | [吕兆鹤](https://github.com/lvzhaohe) | 前端 <br>微信小程序 | 工作站主页，研究生会主页 | 待定 |
 | [翁年伟](https://github.com/111ANY) | PHP | 微信公共平台<br>阿里云小蜜 | 待定 |
 | [何卫东](https://github.com/WakxHWD) | 后端 | ThinkPHP，运动会轻应用（已完成），丝绸之路比赛页面 | 待定 |
