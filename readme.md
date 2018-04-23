@@ -19,10 +19,10 @@
 | [吕兆鹤](https://github.com/lvzhaohe) | 前端 <br>微信小程序 | 工作站主页，研究生会主页 | 待定 |
 | [翁年伟](https://github.com/111ANY) | PHP | 微信公共平台<br>阿里云小蜜，小程序后端 | 待定 |
 | [何卫东](https://github.com/WakxHWD) | 全栈工程师 | ThinkPHP,运动会轻应用（已完成），丝绸之路比赛页面,zui,iview | 待定 |
-| 李承东 | 前端 | JS,bootstrap | 待定 |
-| 罗瑾昀 | 后端 | 创新创业专家库 | 待定 |
-| 朱东阳 | 后端 | fastadmin,微信开发 | 待定 |
-| 王雅琪 | 鼓励师 | 程序猿鼓励 | 💯 |
+| [李承东](https://github.com/preesent) | 前端 | JS,bootstrap | 待定 |
+| [罗瑾昀](https://github.com/xkl265) | 后端 | 创新创业专家库 | 待定 |
+| [朱东阳](https://github.com/WakxHWD) | 后端 | fastadmin,微信开发 | 待定 |
+| [王雅琪](https://github.com/xiaokeai) | 鼓励师 | 程序猿鼓励，攻城狮加油 | 💯 |
 
 
 
